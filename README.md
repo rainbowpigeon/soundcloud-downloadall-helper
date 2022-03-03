@@ -32,3 +32,7 @@ You may need to unblock pop-ups for the opening of new tabs/windows to work.
 - Tampermonkey/Greasemonkey script
 - Find better way of downloading multiple files using a single action
 - Proper error handling
+
+## Acknowledgements
+
+- [sebasyii](https://github.com/sebasyii) for helping me with my JS learning
