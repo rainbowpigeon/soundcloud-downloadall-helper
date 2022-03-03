@@ -9,7 +9,7 @@ I mean, why spend 15 seconds on manual labor when you can spend weeks researchin
 Ok but to be clear, **this is NOT a piracy tool to download or "rip" SoundCloud tracks that you don't have access and download permissions for** - the uploader **must have** enabled downloads and you **must have** access to the tracks/playlist.\
 This is a convenience script to help you automatically generate and/or open direct download links of download-enabled tracks by use of SoundCloud's API. 
 
-![Individual download buttons vs Download all button](https://user-images.githubusercontent.com/16717153/156406096-de39a2b2-19ae-4fc5-a1ac-448d7d97c881.png)
+![Individual download buttons vs Download all button](https://user-images.githubusercontent.com/16717153/156491244-3d71c821-1c79-4036-aaef-2d2bc533b787.png)
 
 ## Details
 
